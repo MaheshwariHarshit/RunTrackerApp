@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/runFragment"
+        android:title="Your Runs"
+        android:icon="@drawable/ic_run"
+        android:iconTint="@color/md_blue_900"
+        />
+
+    <item android:id="@+id/statisticsFragment"
+        android:title="Statistics"
+        android:icon="@drawable/ic_graph"
+        android:iconTint="@color/md_blue_900"/>
+
+    <item android:id="@+id/settingsFragment"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"
+        android:iconTint="@color/md_blue_900"/>
+
+</menu>
