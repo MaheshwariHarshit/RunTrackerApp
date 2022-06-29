@@ -26,3 +26,4 @@
 - Dagger Hilt
 - Glide
 - MPAndroidChart
+- Easy Permissions
